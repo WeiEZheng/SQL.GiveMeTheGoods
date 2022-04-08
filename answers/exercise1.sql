@@ -1,1 +1,3 @@
-SELECT * FROM Students WHERE City LIKE '_a%';
+SELECT *
+FROM Students
+WHERE City LIKE '_a%';
